@@ -3,7 +3,7 @@
 
 ![Image](https://github.com/user-attachments/assets/037f3a4c-fdc1-406b-a7db-f9141c748395)
 <h3>About me:</h3> 
-<p> Name: <b>Taesu Kim</b> <br> Live in <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"/> <b>South Korea </b> </br> College student interested in <b>Server, DB</b> <br> 
+<p> Name: <b>Taesu Kim</b> <br> Live in <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"/> <b>South Korea </b> </br> College student interested in <b>Cyber Security</b> <br> 
 Major: <b>Computer Engeenering</b><br> <br>
 <h3>Things I code with:</h3> 
 
