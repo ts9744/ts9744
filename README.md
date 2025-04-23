@@ -2,7 +2,8 @@
 
 
 ![Image](https://github.com/user-attachments/assets/037f3a4c-fdc1-406b-a7db-f9141c748395)
-<p> I'm Taesu Kim, living in <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"/> <b>South Korea </b> </br> A student interested in Server, DB <br> <br> <br>
+<p> I'm Taesu Kim, living in <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"/> <b>South Korea </b> </br> A student interested in Server, DB <br> 
+Major: Computer Engeenering<br> <br>
 <h3>Things I code with:</h3> 
 
 
