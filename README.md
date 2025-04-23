@@ -7,10 +7,17 @@
 Major: <b>Computer Engeenering</b><br> <br>
 <h3>Things I code with:</h3> 
 
-
 <p align="left">
 </p> <p> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <br><br><br>
-<h3>Languages I use:</h3>
+
+<h3>Project:</h3>  
+Analysis of Factors Affecting Students' Grades
+
+  [![Badge](https://img.shields.io/badge/Repo-Blue?style=for-the-badge&logo=github)](https://github.com/ts9744/StudentPerformanceFactors) 
+<br><br>
+Health Care Application using avatar for body type (incomplete) <br>
+[![Badge](https://img.shields.io/badge/Repo-Blue?style=for-the-badge&logo=github)](https://github.com/ts9744/21S_OS) 
+<br><h3>Languages I use:</h3>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ts9744&langs_count=8)](https://github.com/ts9744/github-readme-stats) <br> <br>
 <h3>My Github Stats:</h3>
